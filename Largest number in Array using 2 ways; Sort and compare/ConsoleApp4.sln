@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest number in Array using 2 ways; Sort and compare", "Largest number in Array using 2 ways; Sort and compare.csproj", "{1CD0FC23-E8FE-4187-BEB4-6B9778FE2573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD0FC23-E8FE-4187-BEB4-6B9778FE2573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD0FC23-E8FE-4187-BEB4-6B9778FE2573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD0FC23-E8FE-4187-BEB4-6B9778FE2573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD0FC23-E8FE-4187-BEB4-6B9778FE2573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {571493A4-1B64-4D10-BA0F-F94B49F466F7}
+	EndGlobalSection
+EndGlobal
